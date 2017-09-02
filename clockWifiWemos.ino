@@ -1,5 +1,6 @@
-// Demo of MAX7219_Dot_Matrix library - sideways scrolling
-// Author: Nick Gammon
+// 
+// http://www.geekstips.com/arduino-time-sync-ntp-server-esp8266-udp/
+//
 // Date: 2 October 2015
 
 // Scrolls a pixel at a time.
